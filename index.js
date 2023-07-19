@@ -40,9 +40,15 @@ const questions = [
         name: "tests",
         message: "Detail how this project was tested: ->",
     },
+
+    // licenses list taken from https://choosealicense.com/licenses/
     {
+        type: "list",
         name: "license",
         message: "Under what license does this project fall under: ->",
+        choices: [
+            "MIT License", "GNU AGPLv3", "GNU GPLv3", "GNU LGPLv3", "Mozilla Public License 2.0", "Apache License 2.0", "Boost Software License 1.0", "The Unlicense"
+        ]
     },
     {
         name: "github",
