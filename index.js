@@ -47,7 +47,7 @@ const questions = [
         name: "license",
         message: "Under what license does this project fall under: ->",
         choices: [
-            "MIT License", "GNU AGPLv3", "GNU GPLv3", "GNU LGPLv3", "Mozilla Public License 2.0", "Apache License 2.0", "Boost Software License 1.0", "The Unlicense"
+            "MIT_License", "GNU_AGPLv3", "GNU_GPLv3", "GNU_LGPLv3", "Mozilla_Public_License 2.0", "Apache_License 2.0", "Boost_Software_License 1.0", "The_Unlicense"
         ]
     },
     {
@@ -128,8 +128,8 @@ function write_readme(answers) {
     `\n\n- **[Usage](#usage)**\n\n- **[Credits](#credits)**\n\n- **[Features](#features)**\n\n- ` +
     `**[Contribution](#contribute)**\n\n- **[Tests](#tests)**\n\n- **[License](#license)**\n\n- **[Questions](#questions)**\n` +
 
-    // description, installation, usage, and credits sections
-    `## Description\n${description}\n## Installation\n${installation}\n## Usage\n${usage}\n## Credits\n${credits}\n` +
+    // description, installation, usage, features, contribution, and credits sections
+    `## Description\n${description}\n## Installation\n${installation}\n## Usage\n${usage}\n## Features\n${features}\n## Contribution\n${contribution}\n## Credits\n${credits}\n` +
 
     // license section
     `## License\nThis project falls under the ${license}.\n` +

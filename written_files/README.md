@@ -1,4 +1,4 @@
-![License Badge](https://img.shields.io/badge/License-MIT-brightgreen)
+![License Badge](https://img.shields.io/badge/License-MIT_License-brightgreen)
 # 
 ## Table of Contents
 - **[Description](#description)**
@@ -24,9 +24,13 @@
 
 ## Usage
 
+## Features
+
+## Contribution
+
 ## Credits
 
 ## License
-This project falls under the MIT.
+This project falls under the MIT_License.
 ## Questions
 This project is available in the author's [GitHub](github.com/). If any further questions are required, simply write an email to 
