@@ -15,8 +15,7 @@
 
 - **[Features](#features)**
 
--  
-**[Contribution](#contribute)**
+- **[Contribution](#contribute)**
 
 - **[Tests](#tests)**
 
