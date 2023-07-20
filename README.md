@@ -8,7 +8,6 @@
 
 - **[Installation](#installation)** 
 
-
 - **[Usage](#usage)**
 
 - **[Credits](#credits)**

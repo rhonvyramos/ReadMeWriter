@@ -111,8 +111,7 @@ function write_readme(answers) {
 <p align="center"><img src="https://img.shields.io/badge/License-MIT_License-brightgreen!"></p> 
 
 ## Table of Contents\n- **[Description](#description)**\n\n- **[Installation](#installation)** 
-\n\n- **[Usage](#usage)**\n\n- **[Credits](#credits)**\n\n- **[Features](#features)**\n\n-  
-**[Contribution](#contribute)**\n\n- **[Tests](#tests)**\n\n- **[License](#license)**\n\n- **[Questions](#questions)**\n 
+\n\n- **[Usage](#usage)**\n\n- **[Credits](#credits)**\n\n- **[Features](#features)**\n\n- **[Contribution](#contribute)**\n\n- **[Tests](#tests)**\n\n- **[License](#license)**\n\n- **[Questions](#questions)**\n 
 
 ## Description\n${description}\n## Installation\n${installation}\n## Usage\n${usage}\n## Features\n${features}\n## Contribution\n${contribution}\n## Credits\n${credits}\n 
 
